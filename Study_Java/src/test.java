@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
+//dddddddddddddddddddddddddddddddddd
 class Card
 {
 	static int epic=0;
